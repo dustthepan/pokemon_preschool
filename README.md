@@ -44,7 +44,7 @@ Example:
 ​
 ### STEP 5 - Upon clicking an image in caught pokemon collection, renders a modal showing the image, name, number, and type
   - modal should not completely block out th whole page.  I should still be able to see the background.
-​
+  
 ### Available Resources
 ​
 Should you ever have a question about whether a given resource is allowed or not, please ask a proctor.
